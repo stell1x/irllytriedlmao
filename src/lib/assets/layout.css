@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--bg: #0d0d0d;
+	--sec: #121212;
+	--grayish: #1a1a1a;
+	--pink: #f9b3bd;
+	--pink2: #f4788c;
+	--pink3: #ea4967;
+	--pinkite: #fee5e7;
+	--white: #ffffff;
+	--green: #83ff90;
+	--yellow: #f6ff83;
+}
+
+body {
+	background-color: var(--bg);
+	color: var(--white);
+	font-family: Poppins;
+}
+
+.poppins-regular {
+	font-family: 'Poppins', serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.poppins-semibold {
+	font-family: 'Poppins', serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.poppins-bold {
+	font-family: 'Poppins', serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+[data-marqueeck-wrapper] {
+	border-radius: 10px;
+}
