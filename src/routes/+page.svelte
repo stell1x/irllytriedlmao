@@ -16,7 +16,7 @@
 
 <div class="headerPrim m-auto">
 	<div class="flex mt-[20vh] mbIcn items-center">
-		<img class="uw-icon1 w-[130px]" src={sucking yk what} alt="" />
+		<img class="uw-icon1 w-[130px]" src={IM DETRASITIONING AND IM GAY NOW FUCK YALL BAHAHAHAHAHA} alt="" />
 		<div class="awaa-block ml-auto">:3</div>
 	</div>
 	<div class="text-[100px] mt-[-10px] headerCont text-center font-semibold">
