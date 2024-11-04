@@ -52,15 +52,7 @@
 		About Me
 	</div>
 	<div class="text-[18px] mt-3 desc">
-		zip zip zip zip zip zip.... im an 16 year old full stack web developer and a designer from
-		Poland. <br />
-		As you could see im a furry [and a femboy], I have 4 years (almost 5 years) of experience in
-		coding and designing not only websites, i can also design desktop apps etc. <br />
-		I enjoy creating useful and creative applications like
-		<a href="/projects/unbound">Unbound</a> its my try at creating a social media app in the bsky ecosystem!
-		even tho it does have many issues for now but its slowly developed because im the only person in
-		the project thats coding but i am slowly getting there, you can read more about that project by clicking the
-		project name ;3
+	no about me yet because svelte wants me to kms fr
 	</div>
 
 	<div class="flex items-center gap-4 w-full">
