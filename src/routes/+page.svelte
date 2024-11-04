@@ -16,29 +16,29 @@
 
 <div class="headerPrim m-auto">
 	<div class="flex mt-[20vh] mbIcn items-center">
-		<img class="uw-icon1 w-[130px]" src={Uwu} alt="" />
+		<img class="uw-icon1 w-[130px]" src={sucking yk what} alt="" />
 		<div class="awaa-block ml-auto">:3</div>
 	</div>
 	<div class="text-[100px] mt-[-10px] headerCont text-center font-semibold">
-		Hello!
+		ello!
 		<div class="relative inline-block">
 			<img class="absolute top-[-30px] transform -translate-x-1/2" src={Plop} alt="" />
 			<img class="absolute top-0 left-0 rounded-[20px]" src={Profile} alt="" />
 			<img class="w-[100px]" src={Heart} alt="" />
 		</div>
-		I'm <span class="text-[var(--pink)]">Leafus</span>
+		name's <span class="text-[var(--pink)]">nova,</span>
 		<div class="text-[70%] undertext mt-[-50px] relative">
 			<span
 				class="awaa-mb text-[var(--pink2)] text-[20px] absolute ml-[383px] mt-[13px] rotate-[-10deg] transform -translate-x-1/2"
 				>&gt;~&lt;</span
 			>
-			a web developer & designer
+			i'm a web developer & designer!
 		</div>
 	</div>
 	<div class="flex items-center">
-		<div class="knot-block mt-3">gayest website fr</div>
+		<div class="knot-block mt-3">alien classified as gay</div>
 		<div class="pawssss ml-auto">
-			<span class="hidden">my paws are big and soft paypal me 30000 usd</span>
+			<span class="hidden">love you platonically for the code leafus</span>
 			<img src={Pawsss} alt="" />
 		</div>
 	</div>
@@ -52,14 +52,14 @@
 		About Me
 	</div>
 	<div class="text-[18px] mt-3 desc">
-		Not going to say much here.. But im an 16 year old full stack web developer and a designer from
+		zip zip zip zip zip zip.... im an 16 year old full stack web developer and a designer from
 		Poland. <br />
-		As you could see im a furry [and a femboy], I have 3 years (almost 4 years) of experience in
-		coding and designing not only websites i can also design desktop apps etc. <br />
+		As you could see im a furry [and a femboy], I have 4 years (almost 5 years) of experience in
+		coding and designing not only websites, i can also design desktop apps etc. <br />
 		I enjoy creating useful and creative applications like
-		<a href="/projects/fluffychat">Fluffy Chat</a> its my try at creating a chatting app like discord!
-		Altrought it does have many issues for now but its slowly developed because im the only person in
-		that project but i am slowly getting there, you can read more about that project by clicking the
+		<a href="/projects/unbound">Unbound</a> its my try at creating a social media app in the bsky ecosystem!
+		even tho it does have many issues for now but its slowly developed because im the only person in
+		the project thats coding but i am slowly getting there, you can read more about that project by clicking the
 		project name ;3
 	</div>
 
@@ -128,7 +128,7 @@
 					Backend
 				</div>
 				<div class="mt-3">
-					I have only 2 years of experience with backend but sill i've worked with multiple
+					I have only 2-3 years of experience with backend but sill i've worked with multiple
 					libraries frameworks to create various APIs.
 				</div>
 				<Marqueeck class="gap-[3rem] [--duration:20s] [--gap:3rem] mt-3" --marqueeck-padding-y="0.5rem">
@@ -151,10 +151,6 @@
 					<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 						<Icon icon='skill-icons:mongodb'/>
 						MongoDB
-					</div>
-					<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
-						<Icon icon='skill-icons:discordjs-dark'/>
-						DiscordJS
 					</div>
 					<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 						<Icon icon='skill-icons:typescript'/>
@@ -180,39 +176,39 @@
 			<Marqueeck class="gap-[3rem] [--duration:20s] [--gap:3rem] mt-3" --marqueeck-padding-y="0.5rem">
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='skill-icons:cloudflare-dark'/>
-					CloudFlare
+					Cloudflare!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='skill-icons:linux-dark'/>
-					Linux
+					Linux!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='skill-icons:npm-dark'/>
-					NPM
+					NPM!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='skill-icons:vscode-dark'/>
-					Visual Studio Code
+					Visual Studio Code!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='skill-icons:git'/>
-					Git
+					Git!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon class="text-[#609926]" icon='pajamas:gitea'/>
-					Gitea
+					Gitea!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon icon='devicon:insomnia'/>
-					Insomnia
+					Insomnia!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon class="text-[var(--pink3)]" icon='solar:server-square-cloud-bold'/>
-					Selfhosting
+					Selfhosting!
 				</div>
 				<div class="flex items-center gap-2 font-semibold bg-[var(--sec)] pl-3 pr-3 pt-1 pb-1 rounded-[10px]">
 					<Icon class="text-[#394eff]" icon='simple-icons:spaceship'/>
-					Spaceship
+					Spaceship!
 				</div>
 			</Marqueeck>
 		</div>
